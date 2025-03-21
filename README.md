@@ -39,7 +39,7 @@ The framework consists of the following components:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/microservices-deployment-framework.git
+git clone https://github.com/raynayam/Microservices-Deployment-Framework.git
 cd microservices-deployment-framework
 ```
 
